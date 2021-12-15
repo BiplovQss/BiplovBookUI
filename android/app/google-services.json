@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "611350146281",
+    "project_id": "biplovbookui",
+    "storage_bucket": "biplovbookui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611350146281:android:c42b4278fe3a0afd3e5478",
+        "android_client_info": {
+          "package_name": "com.biplovbookui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611350146281-a4vl45l74advdfaflrmsbqvh80m9n2o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biplovbookui",
+            "certificate_hash": "e3e82ee09e031ee3c5dd28defef17b27cecdc9ea"
+          }
+        },
+        {
+          "client_id": "611350146281-9obtu0nkr8rei6n8rtii3u7ecl603i80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq83pQ0AS7mnyLNS8v6H8smqwVF4noj2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611350146281-9obtu0nkr8rei6n8rtii3u7ecl603i80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611350146281-cdghumhkioqi0ld8samfovs6jojvkca9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BiplovBookUI"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
